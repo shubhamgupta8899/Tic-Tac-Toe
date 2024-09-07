@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#14FF86</color>
+    <color name="white">#FFFFFFFF</color>
+    <item name="butoonImage1" type="id"/>
+    <string name="app_name">TicTacToe</string>
+    <string name="reset">Reset</string>
+    <string name="welcome_to_tic_tac_toe">welcome To Tic-Tac-Toe</string>
+    <style name="Base.Theme.TicTacToe" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.TicTacToe" parent="Base.Theme.TicTacToe"/>
+</resources>
